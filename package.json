@@ -1,0 +1,14 @@
+{
+  "name": "lescourses",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "git@github.com:maxencelaurent/lescourses.git",
+  "author": "Maxence Laurent <maxence.laurent@gmail.com>",
+  "license": "GPLv3",
+  "private": true,
+  "scripts": {
+  },
+  "workspaces": [
+    "src/main/webapp/app"
+  ]
+}

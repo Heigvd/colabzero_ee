@@ -1,0 +1,17 @@
+export declare const headerStyle: string;
+export declare const headerItemStyle: string;
+export declare const headerImageStyle: string;
+export declare const headerTitleStyle: string;
+export declare const bodyStyle: string;
+export declare const cardStyle: string;
+export declare const containerStyle: string;
+export declare const containerTitleStyle: string;
+export declare const containerContentStyle: string;
+export declare const cardTitle: string;
+export declare const cardTitleText: string;
+export declare const cardContent: string;
+export declare const iconStyle: string;
+export declare const inputStyle: string;
+export declare const whiteIconStyle: string;
+export declare const disabledIconStyle: string;
+export declare const itemCard: string;
